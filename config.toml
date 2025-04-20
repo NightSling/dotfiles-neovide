@@ -1,0 +1,38 @@
+vsync = true
+maximized = false
+srgb = true
+idle = false
+no-multigrid = true
+frame = "full"
+
+[font]
+size = 16
+hinting = "full"
+edging = "antialias"
+
+[[font.normal]]
+family = "JetBrainsMono Nerd Font"
+style = "ExtraLight"
+
+[[font.bold]]
+family = "JetBrainsMono Nerd Font"
+style = "Light"
+
+[[font.italic]]
+family = "JetBrainsMono Nerd Font"
+style = "Thin Italic"
+
+[[font.bold_italic]]
+family = "JetBrainsMono Nerd Font"
+style = "Light Italic"
+
+[font.features]
+"JetBrainsMono Nerd Font" = [
+  "+calt",
+  "+ss20",
+  "+cv02",
+  "+ss02",
+  "+cv14",
+  "+cv18",
+  "+cv20",
+]
