@@ -11,20 +11,20 @@ hinting = "full"
 edging = "antialias"
 
 [[font.normal]]
-family = "JetBrainsMono Nerd Font"
-style = "ExtraLight"
-
-[[font.bold]]
-family = "JetBrainsMono Nerd Font"
+family = "Maple Mono"
 style = "Light"
 
+[[font.bold]]
+family = "Maple Mono"
+style = "Medium"
+
 [[font.italic]]
-family = "JetBrainsMono Nerd Font"
-style = "Thin Italic"
+family = "Maple Mono"
+style = "Light Italic"
 
 [[font.bold_italic]]
-family = "JetBrainsMono Nerd Font"
-style = "Light Italic"
+family = "Maple Mono"
+style = "Medium Italic"
 
 [font.features]
 "JetBrainsMono Nerd Font" = [
